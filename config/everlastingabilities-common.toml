@@ -45,7 +45,7 @@
 
 	[core.ability_totem]
 		#This many totems combined in a crafting grid produces a new random totem (0 to disable)
-		totemCraftingCount = 0
+		totemCraftingCount = 4
 		#When combining totems, percentage chance of getting one higher rarity than normal.
-		totemCraftingRarityIncreasePercent = 0
+		totemCraftingRarityIncreasePercent = 5
 
