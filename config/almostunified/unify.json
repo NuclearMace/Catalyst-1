@@ -1,10 +1,10 @@
 {
   "modPriorities": [
     "minecraft",
+    "thermal",
     "mekanism",
     "create",
     "kubejs",
-    "thermal",
     "immersiveengineering"
   ],
   "stoneStrata": [
