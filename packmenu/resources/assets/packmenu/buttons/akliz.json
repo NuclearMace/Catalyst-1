@@ -1,0 +1,9 @@
+{
+	"x": -100,
+	"y": 48,
+	"width": 200,
+	"height": 20,
+	"langKey": "packmenu.akliz",
+	"action": "OPEN_URL",
+	"data": "https://www.akliz.net/partners"
+}
